@@ -1,5 +1,3 @@
-// This file is not for actual exercise
-
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { createStore, applyMiddleware } from 'redux';
